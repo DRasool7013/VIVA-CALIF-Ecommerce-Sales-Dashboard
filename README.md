@@ -106,7 +106,7 @@ Selecting any option instantly filters all charts and KPI cards together.
 
 ## 📸 Dashboard Preview
 
-See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerse-blank_dashboard.png)**.for the full interactive dashboard layout, and `Questions___KPIs.png`  **[Questions___KPIs.png](Documentation.md)**for the original KPI/question planning notes this project was scoped from.
+See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerse-blank_dashboard.png)**.for the full interactive dashboard layout, and `Questions___KPIs.png`  **[Questions___KPIs.png](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/Questions%20%26%20KPIs.png)**for the original KPI/question planning notes this project was scoped from.
 
 ---
 
