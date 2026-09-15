@@ -112,5 +112,10 @@ See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://gi
 
 ## 👤 Author
 
-Built as part of a data analytics portfolio to demonstrate Excel dashboarding, PivotTable design, and business-question-driven analysis.
+**D. Alla Rasool**
+📧 rasoolpinjari0@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
+
+Feel free to connect or raise an issue if you have suggestions for improving this dashboard.
+
 
