@@ -112,10 +112,6 @@ See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://gi
 
 ## 👤 Author
 
-**D. Alla Rasool**
-📧 rasoolpinjari0@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
-
 ** D. Alla Rasool **
 Data Analyst | Excel · Data Visualization · Business Analysis
 📧 rasoolpinjari0@gmail.com
