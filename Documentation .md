@@ -133,6 +133,6 @@ This demonstrates the dashboard's core interactivity — the same KPI cards and 
 | **[`ecommerce-blank_dataset.xlsx`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerce-blank%20dataset.xlsx)**| Standalone cleaned dataset (source of truth for the `Data` sheet) |
 | **[`ecommerce-blank_excel_project.xlsx`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerce-blank%20excel%20project.xlsx)**| Full working Excel file — Data, Questions & KPIs, Dashboard, and helper sheet, with all   PivotTables/PivotCharts/Slicers intact |
 | **[`ecommerse-blank_dashboard.png`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerse-blank_dashboard.png)**| Final rendered dashboard screenshot |
-| **[Questions___KPIs.png](Documentation.md)**| Original planning notes — KPIs and business questions scoped before building |
+| **[Questions___KPIs.png]()**| Original planning notes — KPIs and business questions scoped before building |
 | `README.md` **[README.md](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/README.md)**| 
 | **[Documentation.md](Documentation.md)** | This file — full build and analysis documentation |
