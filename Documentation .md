@@ -13,7 +13,7 @@ The goal of this project was to design and build a **fully interactive, single-p
 
 ## 2. Dataset Description
 
-**File:** `ecommerce-blank_dataset.xlsx` (sheet: `Data`)
+**File:** **[`ecommerce-blank_dataset.xlsx`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerce-blank%20dataset.xlsx)** (sheet: `Data`)
 **Size:** 2,400 rows × 15 columns
 
 | Column | Description |
@@ -130,7 +130,7 @@ This demonstrates the dashboard's core interactivity — the same KPI cards and 
 
 | File | Purpose |
 |---|---|
-| **[`ecommerce-blank_dataset.xlsx`](Documentation.md)**| Standalone cleaned dataset (source of truth for the `Data` sheet) |
+| **[`ecommerce-blank_dataset.xlsx`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerce-blank%20dataset.xlsx)**| Standalone cleaned dataset (source of truth for the `Data` sheet) |
 | **[`ecommerce-blank_excel_project.xlsx`](Documentation.md)**| Full working Excel file — Data, Questions & KPIs, Dashboard, and helper sheet, with all   PivotTables/PivotCharts/Slicers intact |
 | **[`ecommerse-blank_dashboard.png`](Documentation.md)**| Final rendered dashboard screenshot |
 | **[Questions___KPIs.png](Documentation.md)**| Original planning notes — KPIs and business questions scoped before building |
