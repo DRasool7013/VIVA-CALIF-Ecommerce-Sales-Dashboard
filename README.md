@@ -106,7 +106,7 @@ Selecting any option instantly filters all charts and KPI cards together.
 
 ## 📸 Dashboard Preview
 
-See `ecommerse-blank_dashboard.png` for the full interactive dashboard layout, and `Questions___KPIs.png` for the original KPI/question planning notes this project was scoped from.
+See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](Documentation.md)**.for the full interactive dashboard layout, and `Questions___KPIs.png`  **[Questions___KPIs.png](Documentation.md)**for the original KPI/question planning notes this project was scoped from.
 
 ---
 
