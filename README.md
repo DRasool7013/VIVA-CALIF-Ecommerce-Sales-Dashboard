@@ -116,6 +116,13 @@ See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://gi
 📧 rasoolpinjari0@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
 
+** D. Alla Rasool **
+Data Analyst | Excel · Data Visualization · Business Analysis
+📧 rasoolpinjari0@gmail.com
+🔗 LinkedIn: [www.linkedin.com/in/drasool7663]
+🔗 GitHub: [your-github-url]
+•  [Portfolio](#)
+
 Feel free to connect or raise an issue if you have suggestions for improving this dashboard.
 
 
