@@ -135,4 +135,4 @@ This demonstrates the dashboard's core interactivity — the same KPI cards and 
 | **[`ecommerse-blank_dashboard.png`](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/ecommerse-blank_dashboard.png)**| Final rendered dashboard screenshot |
 | **[Questions___KPIs.png](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/Questions%20%26%20KPIs.png)**| Original planning notes — KPIs and business questions scoped before building |
 | `README.md` **[README.md](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/README.md)**| 
-| **[Documentation.md](Documentation.md)** | This file — full build and analysis documentation |
+| **[Documentation.md](https://github.com/DRasool7013/VIVA-CALIF-Ecommerce-Sales-Dashboard/blob/main/Documentation%20.md)** | This file — full build and analysis documentation |
