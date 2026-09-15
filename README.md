@@ -116,7 +116,7 @@ See `ecommerse-blank_dashboard.png` **[ecommerse-blank_dashboard.png](https://gi
 Data Analyst | Excel · Data Visualization · Business Analysis
 📧 rasoolpinjari0@gmail.com
 🔗 LinkedIn: [www.linkedin.com/in/drasool7663]
-🔗 GitHub: [github.com/DRasool7013]
+🔗 GitHub: [www.github.com/DRasool7013]
 •  [Portfolio](#)
 
 Feel free to connect or raise an issue if you have suggestions for improving this dashboard.
